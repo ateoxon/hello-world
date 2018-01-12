@@ -1,2 +1,3 @@
 # hello-world
-this is a test!
+
+Hello! My name is Angelo and I am learning how to use GitHub!
